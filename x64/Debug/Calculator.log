@@ -1,0 +1,67 @@
+﻿  MyForm.cpp
+C:\Users\Datis\source\repos\Calculator\Additional_Files\Functions.h(105,8): warning C4273: 'floor': inconsistent dll linkage
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\corecrt_math.h(503,47): message : see previous definition of 'floor'
+C:\Users\Datis\source\repos\Calculator\Additional_Files\GetNumber.h(30,26): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Datis\source\repos\Calculator\Additional_Files\GetNumber.h(45,26): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Datis\source\repos\Calculator\Additional_Files\GetNumber.h(45,45): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Datis\source\repos\Calculator\Additional_Files\GetNumber.h(76,28): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Datis\source\repos\Calculator\Additional_Files\GetNumber.h(76,49): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Datis\source\repos\Calculator\Additional_Files\GetNumber.h(118,36): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Datis\source\repos\Calculator\Additional_Files\GetNumber.h(141,38): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Datis\source\repos\Calculator\Additional_Files\GetNumber.h(142,40): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Datis\source\repos\Calculator\Additional_Files\GetNumber.h(174,45): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Datis\source\repos\Calculator\Additional_Files\GetNumber.h(175,47): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Datis\source\repos\Calculator\Additional_Files\GetNumber.h(220,32): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Datis\source\repos\Calculator\Additional_Files\GetNumber.h(244,38): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Datis\source\repos\Calculator\Additional_Files\GetNumber.h(245,40): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Datis\source\repos\Calculator\Additional_Files\GetNumber.h(326,38): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Datis\source\repos\Calculator\Additional_Files\GetNumber.h(390,38): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Datis\source\repos\Calculator\Additional_Files\GetNumber.h(454,46): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Datis\source\repos\Calculator\Additional_Files\GetNumber.h(455,55): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Datis\source\repos\Calculator\Additional_Files\GetNumber.h(494,49): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Datis\source\repos\Calculator\Additional_Files\GetNumber.h(495,45): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Datis\source\repos\Calculator\Additional_Files\GetNumber.h(506,49): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Datis\source\repos\Calculator\Additional_Files\GetNumber.h(507,45): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Datis\source\repos\Calculator\Additional_Files\GetNumber.h(518,49): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Datis\source\repos\Calculator\Additional_Files\GetNumber.h(519,45): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Datis\source\repos\Calculator\Additional_Files\GetNumber.h(531,49): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Datis\source\repos\Calculator\Additional_Files\GetNumber.h(532,45): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Datis\source\repos\Calculator\Additional_Files\GetNumber.h(543,49): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Datis\source\repos\Calculator\Additional_Files\GetNumber.h(544,45): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Datis\source\repos\Calculator\Additional_Files\GetNumber.h(556,49): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Datis\source\repos\Calculator\Additional_Files\GetNumber.h(557,45): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Datis\source\repos\Calculator\Additional_Files\GetNumber.h(569,49): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Datis\source\repos\Calculator\Additional_Files\GetNumber.h(570,45): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Datis\source\repos\Calculator\Additional_Files\GetNumber.h(600,49): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Datis\source\repos\Calculator\Additional_Files\GetNumber.h(601,45): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Datis\source\repos\Calculator\Additional_Files\GetNumber.h(629,49): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Datis\source\repos\Calculator\Additional_Files\GetNumber.h(630,45): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Datis\source\repos\Calculator\Additional_Files\GetNumber.h(658,49): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Datis\source\repos\Calculator\Additional_Files\GetNumber.h(659,45): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Datis\source\repos\Calculator\Additional_Files\GetNumber.h(687,49): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Datis\source\repos\Calculator\Additional_Files\GetNumber.h(688,45): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Datis\source\repos\Calculator\Additional_Files\GetNumber.h(716,49): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Datis\source\repos\Calculator\Additional_Files\GetNumber.h(717,45): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Datis\source\repos\Calculator\Additional_Files\GetNumber.h(745,47): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Datis\source\repos\Calculator\Additional_Files\GetNumber.h(756,39): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Datis\source\repos\Calculator\Additional_Files\GetNumber.h(757,18): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Datis\source\repos\Calculator\Additional_Files\GetNumber.h(769,49): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Datis\source\repos\Calculator\Additional_Files\GetNumber.h(780,53): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Datis\source\repos\Calculator\Additional_Files\GetNumber.h(791,55): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Datis\source\repos\Calculator\Additional_Files\GetNumber.h(802,47): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Datis\source\repos\Calculator\Additional_Files\GetNumber.h(818,35): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Datis\source\repos\Calculator\Additional_Files\GetNumber.h(820,24): warning C4244: 'initializing': conversion from 'double' to 'long', possible loss of data
+C:\Users\Datis\source\repos\Calculator\Additional_Files\GetNumber.h(821,31): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Datis\source\repos\Calculator\Additional_Files\GetNumber.h(822,18): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Datis\source\repos\Calculator\Additional_Files\GetNumber.h(823,21): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Datis\source\repos\Calculator\Additional_Files\GetNumber.h(828,25): warning C4244: 'initializing': conversion from 'double' to 'long', possible loss of data
+C:\Users\Datis\source\repos\Calculator\Additional_Files\GetNumber.h(833,33): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Datis\source\repos\Calculator\Additional_Files\GetNumber.h(836,23): warning C4244: 'initializing': conversion from 'double' to 'long', possible loss of data
+C:\Users\Datis\source\repos\Calculator\Additional_Files\GetNumber.h(846,34): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Datis\source\repos\Calculator\MyForm.h(1373,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Datis\source\repos\Calculator\MyForm.h(1450,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Datis\source\repos\Calculator\MyForm.h(1473,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Datis\source\repos\Calculator\MyForm.h(1495,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  MyForm.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+     Creating library C:\Users\Datis\source\repos\Calculator\x64\Debug\Calculator.lib and object C:\Users\Datis\source\repos\Calculator\x64\Debug\Calculator.exp
+  Calculator.vcxproj -> C:\Users\Datis\source\repos\Calculator\x64\Debug\Calculator.exe

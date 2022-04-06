@@ -1,0 +1,5 @@
+C:\Users\Datis\source\repos\Calculator\x64\Debug\Calculator.vcxproj.AssemblyReference.cache
+C:\Users\Datis\source\repos\Calculator\x64\Debug\Calculator.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\Datis\source\repos\Calculator\x64\Debug\Calculator.MyForm.resources
+C:\Users\Datis\source\repos\Calculator\x64\Debug\Calculator.vcxproj.GenerateResource.cache
+C:\Users\Datis\source\repos\Calculator\x64\Debug\Calculator.exe
