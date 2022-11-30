@@ -2,9 +2,6 @@
 
 this is the final project for my first semester as a CE student
 
-##########################################
-########### Ali Baghaee Ravari ###########
-##########################################
 
 so this is my final project
 the ui is simple so i dont need to explain it
@@ -44,9 +41,5 @@ there is 3 header file in Additional_Files folder
 GetNumber do the main operation, it gets a string and simplifies the phrase and use Validator file to
 confirm if the input is valid, and then use the Function file to do all the math, i could make another header for (+-\*/)
 but at that time i didn't know it's gonna be a mess
-
-so this is it, it's all i got and could do
-to be clear i didn't have time to make it perfect(started working on it since sunday)
-but i think it's not that bad
 
 bye i guess :)
